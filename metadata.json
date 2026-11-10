@@ -1,0 +1,7 @@
+{
+  "name": "TikTok Services | مركز الإدارة",
+  "description": "منصة إدارة خدمات تيك توك وبوت تيليجرام والطلبات والمستخدمين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
